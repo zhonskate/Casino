@@ -1,3 +1,4 @@
 # Casino
-a simple casino I built
-that's it
+
+
+a simple casino I built on my first year of university
